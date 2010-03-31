@@ -1,0 +1,9 @@
+{modules,
+ [
+  {mod_online_msg, [
+                    {subject, "Subject for the message"},
+                    {msg, "Actual Message to Send"}
+                   ]}
+ ]
+}.
+
